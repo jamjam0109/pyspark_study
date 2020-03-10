@@ -16,7 +16,7 @@ One of the main advantages of Spark is to build an architecture that encompasses
 
 Spark works closely with SQL language, i.e., structured data. It allows querying the data in real-time.
 
-> Spark는 SQL과 유사하게 동작합니다. 실시간으로 쿼리를 활용하여 데이터를 처리할 수 있습니다.
+> Spark는 SQL과 유사하게 동작합니다. 실시간으로 쿼리를 활용하여 데이터를 처리할 수 있다.
 
 Data scientist main's job is to analyze and build predictive models. In short, a data scientist needs to know how to query data using SQL, produce a statistical report and make use of machine learning to produce predictions. 
 
