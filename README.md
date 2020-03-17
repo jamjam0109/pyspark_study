@@ -26,5 +26,6 @@ Data scientist spends a significant amount of their time on cleaning, transformi
 
 > 데이터 과학자 데이처 처리, 변환 및 분석에 많은 시간을 쓴다. 데이터 구성이 준비된 후엔 그 속에 숨겨진 패턴과 인사이트를 찾기 위해 다양한 기술을 활용한다. 데이터를 처리하는 일은 robust해야하며 쉬워야 한다. Spark의 빠르고 다양한 API는 이러한 데이터 처리에 적합한 도구다. 
 
-
-[Notion 정리 - pySpark를 알아보자](https://www.notion.so/jaemin/PySpark-9eb9ce59791241b583f77537f73768b8#6120273dd3f6431691173a8b5ea9513c)
+## 참고
+- [How to install PySpark locally](https://medium.com/tinghaochen/how-to-install-pyspark-locally-94501eefe421)
+- [Jupyter Lab에서 Spark 실행하기](https://lamanus.kr/68)
